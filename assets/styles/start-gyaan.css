@@ -1,0 +1,67 @@
+
+.meet-team-bg {
+    background-color: rgba(0, 103, 179, 0.76);
+    width:100%;
+    height: 300px;
+}
+
+.meet-team-text {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.home-team {
+    padding-top:30px;
+    color:white;
+    font-family: lato;
+    font-weight:300;
+    font-size: 14px;
+}
+.home{
+    font-family:lato;
+    font-weight: 400;
+}
+
+.meet-the-team {
+    color:white;
+    font-family: lato;
+    font-size: 28px;
+    font-weight: 500;
+    padding-top: 90px;
+}
+
+.home-team-last {
+    color: rgba(255,255,255,0.8);
+    font-family: Noto Sans;
+    font-weight: 400;
+    font-size: 16px;
+}
+.arrow-1 {
+    white-space:pre;
+    font-weight: bold;
+}
+.starting-designers-container {
+    width:100%;
+    height: 200px;
+}
+
+.start-des-text {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.gyaan {
+    margin-top: 45px;
+    font-size: 18px;
+    color: rgb(51,51,51);
+    font-family: Noto Sans;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+.designers-word {
+    color: rgba(76,76,76,1);
+    font-family: lato;
+    font-size: 28px;
+    font-weight: 500;
+    padding-top: 50px;
+}

@@ -1,0 +1,58 @@
+.bottom-info-bar {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 3vw; /* Convert margin-left to vw */
+    margin-right: 6vw; /* Convert margin-right to vw */
+    height: 30vh; /* Convert height to vh */
+    width: 100%;
+    margin-top: 10vh; /* Convert margin-top to vh */
+}
+
+.dept-name {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 1.2vw; /* Convert font-size to vw */
+    margin-bottom: 0;
+}
+
+.clg-name {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 1.2vw; /* Convert font-size to vw */
+    margin-top: 0.3vh; /* Convert margin-top to vh */
+}
+
+.contact-us-text {
+    font-family: Noto Sans;
+    font-size: 1vw; /* Convert font-size to vw */
+    font-weight: 400;
+}
+
+.fb-logo-end {
+    display: flex;
+    justify-content: space-between;
+    width: 10vw; /* Convert width to vw */
+}
+
+.explore-text {
+    font-family: Noto Sans;
+    font-size: 1.2vw; /* Convert font-size to vw */
+    font-weight: 400;
+}
+
+.dept {
+    font-family: Noto Sans;
+    font-size: 1vw; /* Convert font-size to vw */
+    font-weight: 400;
+}
+
+.empty-3-div {
+    height: 15vh; /* Convert height to vh */
+    background-color: grey;
+}
+
+.end {
+    font-family: Noto Sans;
+    font-size: 1vw; /* Convert font-size to vw */
+    font-weight: 400;
+}

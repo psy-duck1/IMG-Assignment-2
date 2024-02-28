@@ -1,0 +1,46 @@
+.top-div {
+    margin-left: 3vw; /* Reduced margin-left */
+    margin-top: 1vh; /* Reduced margin-top */
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-img-div {
+    margin-left: 3vw; /* Reduced margin-left */
+}
+
+.top-div-text {
+    margin-left: 30vw; /* Reduced margin-left */
+    display: flex;
+    flex-direction: column;
+}
+
+.hindi-text {
+    width: 5%; /* Reduced width */
+}
+
+.grid-1-element-1 {
+    grid-column: 1/2;
+    grid-row: 1/2;
+    display: inline-block;
+}
+
+.line-1 {
+    margin-left: 1px; /* Reduced margin-left */
+    margin-top: 1px; /* Reduced margin-top */
+    width: 1px; /* Reduced width */
+    height: 2vh; /* Reduced height */
+    border: none;
+    background-color: black;
+    display: inline-block;
+}
+
+.text-english-word {
+    display: inline;
+    justify-content: center;
+    padding: 1px; /* Reduced padding */
+}
+
+.font-size-menu {
+    display: inline;
+}
