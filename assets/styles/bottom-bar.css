@@ -56,3 +56,6 @@
     font-size: 1vw; /* Convert font-size to vw */
     font-weight: 400;
 }
+.gmap-image {
+    height: 11vw
+}
